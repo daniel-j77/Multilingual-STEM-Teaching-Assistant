@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+sentencepiece
+safetensors
+huggingface_hub
+matplotlib
+networkx
+pandas
+scikit-learn
