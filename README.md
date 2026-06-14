@@ -170,6 +170,10 @@ Bachelor of Engineering in Computer Science and Engineering
 
 Loyola Institute of Technology, Chennai
 
+LinkedIn: https://www.linkedin.com/in/daniel-j77
+
+GitHub: https://github.com/daniel-j77
+
 ---
 
 ## License
